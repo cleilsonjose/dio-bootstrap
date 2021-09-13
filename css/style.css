@@ -9,7 +9,7 @@ h3{
   color: #FFFFFF;
 }
 
-.quem-somos, .parceiros{
+.quem-somos, .parceiros, .servicos, .bg-footer{
   color:#FFFFFF;
 }
 
@@ -26,9 +26,21 @@ h3{
 }
 
 .parceiros{
-  background-color: #26B4C0;
+  background-color: #3C765D;
 }
 
 .parceiros img{
   width: 100%;
+}
+
+.servicos{
+  background-color: #62937D;
+}
+
+.bg-footer{
+  background-color: black;
+}
+
+.bg-footer a{
+  text-decoration: none;
 }
